@@ -13,6 +13,7 @@
       - [x] Package installation (Apache/httpd)
       - [x] Service status verification
    - Please run the following command first
-     `curl -O <filepath> && chmod +x setup_lab1.sh && ./setup_rocky.sh`
+     `curl -O <filepath> && chmod +x setup_rocky.sh && ./setup_rocky.sh`
+     `curl -O <filepath> && chmod +x setup_ubuntu.sh && ./setup_ubuntu.sh`
 4. Notice
    - For Win11 users, please turn off Hyper-V and Related Features by [tutorial](https://community.broadcom.com/vmware-cloud-foundation/discussion/how-to-disable-hyper-v-in-windows-11-24h2#bmd6005bf9-6212-4a5c-8ba9-00493a8e3859).
