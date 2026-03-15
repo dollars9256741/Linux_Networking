@@ -6,3 +6,9 @@
 2. Environment
    - [VMware Workstation Pro 25H2](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
    - [Rocky Linux 10-Kickstart Files](https://docs.rockylinux.org/10/guides/automation/kickstart-rocky/)
+   - Vargent
+3. 🤖 Automation
+   - To quickly replicate this environment, I've created a script: `setup_lab1.sh`. It automates:
+   - [x] Firewall configuration (HTTP service)
+   - [x] Package installation (Apache/httpd)
+   - [x] Service status verification
