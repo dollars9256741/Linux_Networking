@@ -24,7 +24,7 @@ flowchart TD
 graph TD
     %% 定義節點樣式
     Internet((Internet))
-    R[R]
+    Rocky Server[R]
     U[U]
     D[D]
 
