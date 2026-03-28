@@ -24,9 +24,9 @@ flowchart TD
 graph TD
     %% 定義節點樣式
     Internet((Internet))
-    Rocky Server[R]
-    U[U]
-    D[D]
+    R[Rockey Server]
+    U[Ubuntu Server]
+    D[Ubuntu Desktop]
 
     %% 連線與標籤
     Internet --- |"Bridge (Win11)"| R
