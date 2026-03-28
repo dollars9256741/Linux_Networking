@@ -40,7 +40,7 @@ graph TD
     style D fill:#fff,stroke:#333,stroke-width:2px
 ```
 ### Network bonding (Active-Backup)
-```mermain
+```mermaid
 graph LR
     subgraph Server ["伺服器 (Server)"]
         direction TB
