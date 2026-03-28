@@ -40,8 +40,14 @@ graph TD
     style D fill:#fff,stroke:#333,stroke-width:2px
 ```
 ### Component
-1. Ubuntu Desktop: 172.27.X.101/24
-2. Ubuntu Server: 172.17.X.11/24
-3. Rocky Server: 172.17.X.254/24
-                 172.27.X.254/24
-                 WAN IP 140.129.26.X/24
+1. Ubuntu Desktop:
+   + file: ubuntu-24.04.4-desktop-amd64-autoinstall.iso
+   + 172.27.X.101/24 
+3. Ubuntu Server:
+   + file: ubuntu-24.04.4-live-server-amd64-autoinstall.iso 
+   + 172.17.X.11/24
+5. Rocky Server:
+   + file: Rocky-9.7-x86_64-minimal-kickstart.iso
+   + 172.17.X.254/24
+   + 172.27.X.254/24
+   + WAN IP 140.129.26.X/24
